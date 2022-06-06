@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\ClassesMethodsAssignment3\ClassesMethodsAssignment3\bin\Debug\ClassesMethodsAssignment3.exe.config
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\ClassesMethodsAssignment3\ClassesMethodsAssignment3\bin\Debug\ClassesMethodsAssignment3.exe
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\ClassesMethodsAssignment3\ClassesMethodsAssignment3\bin\Debug\ClassesMethodsAssignment3.pdb
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\ClassesMethodsAssignment3\ClassesMethodsAssignment3\obj\Debug\ClassesMethodsAssignment3.csproj.AssemblyReference.cache
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\ClassesMethodsAssignment3\ClassesMethodsAssignment3\obj\Debug\ClassesMethodsAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\ClassesMethodsAssignment3\ClassesMethodsAssignment3\obj\Debug\ClassesMethodsAssignment3.exe
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\ClassesMethodsAssignment3\ClassesMethodsAssignment3\obj\Debug\ClassesMethodsAssignment3.pdb
