@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\InheritanceAssignment.exe.config
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\InheritanceAssignment.exe
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\InheritanceAssignment.pdb
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\InheritanceAssignment.csproj.AssemblyReference.cache
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\InheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\InheritanceAssignment.exe
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\InheritanceAssignment.pdb
