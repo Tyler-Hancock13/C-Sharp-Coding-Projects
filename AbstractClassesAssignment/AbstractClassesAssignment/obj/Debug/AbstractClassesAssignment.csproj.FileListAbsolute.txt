@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\AbstractClassesAssignment.exe.config
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\AbstractClassesAssignment.exe
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\AbstractClassesAssignment.pdb
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\AbstractClassesAssignment.csproj.AssemblyReference.cache
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\AbstractClassesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\AbstractClassesAssignment.exe
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\AbstractClassesAssignment.pdb
