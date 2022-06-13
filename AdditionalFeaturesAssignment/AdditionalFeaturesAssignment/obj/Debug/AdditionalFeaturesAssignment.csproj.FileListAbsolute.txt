@@ -1,0 +1,7 @@
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\AdditionalFeaturesAssignment.exe.config
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\AdditionalFeaturesAssignment.exe
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\AdditionalFeaturesAssignment.pdb
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.csproj.AssemblyReference.cache
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.exe
+C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\AdditionalFeaturesAssignment.pdb
