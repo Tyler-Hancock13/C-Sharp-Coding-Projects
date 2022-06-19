@@ -6,7 +6,7 @@ These are some small projects I made using C#, .Net Framework and MVC
 
 - [Car Insurance](https://github.com/Tyler-Hancock13/C-Sharp-Coding-Projects/tree/main/CarInsurance)
 - [Newsletter App](https://github.com/Tyler-Hancock13/C-Sharp-Coding-Projects/tree/main/NewsletterAppMVC)
-- [BlackJack](https://github.com/Tyler-Hancock13/C-Sharp-Coding-Projects)
+- [BlackJack](https://github.com/Tyler-Hancock13/C-Sharp-Coding-Projects/tree/main/TwentyOne)
 
 ### Car Insurance
 This project is an MVC web application that mimics a car insurance website. It takes user's input on policy information and calculate a quote based on business logic. There is also an admin page that allows staff to view all of the quotes that have been issued.
