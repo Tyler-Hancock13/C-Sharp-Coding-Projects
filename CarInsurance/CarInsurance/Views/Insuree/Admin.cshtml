@@ -1,0 +1,42 @@
+﻿@using CarInsurance.ViewModels
+@model List<InsureeVm>
+
+            <div class="text-center">
+                <h2>Issued Quotes</h2>
+            </div>
+            <div class="justify-content-center">
+                <table class="table table-striped table-dark">
+                    <tr>
+                        <th>
+                            <label>First Name</label>
+                        </th>
+                        <th>
+                            <label>Last Name</label>
+                        </th>
+                        <th>
+                            <label>Email Address</label>
+                        </th>
+                        <th>
+                            <label>Quote</label>
+                        </th>
+                    </tr>
+                        @foreach (var quote in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @quote.FirstName
+                                </td>
+                                <td>
+                                    @quote.LastName
+                                </td>
+                                <td>
+                                    @quote.EmailAddress
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(model => quote.Quote)
+                                </td>
+                            </tr>
+                        }
+                </table>
+            </div>
+
