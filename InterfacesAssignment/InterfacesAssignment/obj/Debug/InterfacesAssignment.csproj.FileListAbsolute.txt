@@ -1,7 +1,0 @@
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\bin\Debug\InterfacesAssignment.exe.config
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\bin\Debug\InterfacesAssignment.exe
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\bin\Debug\InterfacesAssignment.pdb
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\InterfacesAssignment.csproj.AssemblyReference.cache
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\InterfacesAssignment.csproj.CoreCompileInputs.cache
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\InterfacesAssignment.exe
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\InterfacesAssignment.pdb

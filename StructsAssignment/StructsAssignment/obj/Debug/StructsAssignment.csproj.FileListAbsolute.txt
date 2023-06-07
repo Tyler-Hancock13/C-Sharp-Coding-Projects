@@ -1,7 +1,0 @@
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\bin\Debug\StructsAssignment.exe.config
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\bin\Debug\StructsAssignment.exe
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\bin\Debug\StructsAssignment.pdb
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.csproj.AssemblyReference.cache
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.csproj.CoreCompileInputs.cache
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.exe
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\StructsAssignment\StructsAssignment\obj\Debug\StructsAssignment.pdb

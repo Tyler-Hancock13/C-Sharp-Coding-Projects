@@ -1,7 +1,0 @@
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\ClassesMethodsAssignment2\ClassesMethodsAssignment2\bin\Debug\ClassesMethodsAssignment2.exe.config
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\ClassesMethodsAssignment2\ClassesMethodsAssignment2\bin\Debug\ClassesMethodsAssignment2.exe
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\ClassesMethodsAssignment2\ClassesMethodsAssignment2\bin\Debug\ClassesMethodsAssignment2.pdb
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\ClassesMethodsAssignment2\ClassesMethodsAssignment2\obj\Debug\ClassesMethodsAssignment2.csproj.AssemblyReference.cache
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\ClassesMethodsAssignment2\ClassesMethodsAssignment2\obj\Debug\ClassesMethodsAssignment2.csproj.CoreCompileInputs.cache
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\ClassesMethodsAssignment2\ClassesMethodsAssignment2\obj\Debug\ClassesMethodsAssignment2.exe
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\ClassesMethodsAssignment2\ClassesMethodsAssignment2\obj\Debug\ClassesMethodsAssignment2.pdb

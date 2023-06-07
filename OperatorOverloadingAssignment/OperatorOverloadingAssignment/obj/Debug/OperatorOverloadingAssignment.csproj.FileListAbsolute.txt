@@ -1,7 +1,0 @@
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\bin\Debug\OperatorOverloadingAssignment.exe.config
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\bin\Debug\OperatorOverloadingAssignment.exe
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\bin\Debug\OperatorOverloadingAssignment.pdb
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\OperatorOverloadingAssignment.csproj.AssemblyReference.cache
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\OperatorOverloadingAssignment.csproj.CoreCompileInputs.cache
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\OperatorOverloadingAssignment.exe
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\OperatorOverloadingAssignment\OperatorOverloadingAssignment\obj\Debug\OperatorOverloadingAssignment.pdb

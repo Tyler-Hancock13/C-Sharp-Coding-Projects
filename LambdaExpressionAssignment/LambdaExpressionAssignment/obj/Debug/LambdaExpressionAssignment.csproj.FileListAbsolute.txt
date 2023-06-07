@@ -1,7 +1,0 @@
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\LambdaExpressionAssignment.exe.config
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\LambdaExpressionAssignment.exe
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\bin\Debug\LambdaExpressionAssignment.pdb
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.csproj.AssemblyReference.cache
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.csproj.CoreCompileInputs.cache
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.exe
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\LambdaExpressionAssignment\LambdaExpressionAssignment\obj\Debug\LambdaExpressionAssignment.pdb

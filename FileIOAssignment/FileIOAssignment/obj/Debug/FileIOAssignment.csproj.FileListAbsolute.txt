@@ -1,7 +1,0 @@
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\FileIOAssignment.exe.config
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\FileIOAssignment.exe
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\FileIOAssignment.pdb
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.csproj.AssemblyReference.cache
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.csproj.CoreCompileInputs.cache
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.exe
-C:\Users\tyler\Desktop\C-Sharp-Coding-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.pdb
